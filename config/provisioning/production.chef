@@ -1,0 +1,7 @@
+s3:
+  bucket: provisiondemo
+
+database:
+  name: provisiondemo
+  user: prov
+  password: prov
